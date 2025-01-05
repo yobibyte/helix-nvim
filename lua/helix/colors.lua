@@ -29,7 +29,8 @@ local colors = {
   diff_plus = "#35bf86",
   diff_minus = "#f22c86",
   diff_delta = "#6f44f0",
-  selection = "#540099"
+  selection = "#540099",
+  matched_bracket = "#6c6999",
 }
 
 return colors

@@ -75,7 +75,7 @@ function M.highlight(palette, opts)
     WildMenu = { fg = palette.revolver, bg = palette.blue },
     EndOfBuffer = { fg = palette.bg, bg = palette.none },
     FloatBorder = { fg = palette.fg, bg = palette.bg },
-    MatchParen = { fg = palette.none, bg = palette.fg },
+    MatchParen = { fg = palette.none, bg = palette.matched_bracket },
   }
 end
 
