@@ -29,7 +29,7 @@ function M.highlight(palette, opts)
     DiffOldFile = { fg = palette.lightning },
     DiffNewFile = { fg = palette.mint },
     DiffFile = { fg = palette.blue },
-    DiffLine = { fg = palette.bossanova },
+    DiffLine = { fg = palette.lightning},
     DiffIndexLine = { fg = palette.diff_plus },
     ErrorMsg = { fg = palette.apricot, bg = palette.none },
     WinSeparator = { fg = palette.bossanova, bg = palette.none },
